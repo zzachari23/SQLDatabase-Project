@@ -4,7 +4,7 @@
 
 ## Built  With
 * Visual Studio
-* MySQLWorkBench
+* MySQL WorkBench
 * SQL
 * Python
-* PowerbBI
+* Powerb BI
