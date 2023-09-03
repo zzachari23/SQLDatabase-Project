@@ -7,4 +7,4 @@
 * MySQL WorkBench
 * SQL
 * Python
-* Powerb BI
+* Tableau
