@@ -11,7 +11,7 @@ The primary objective of this project is to demonstrate my proficiency in workin
 * Python
 * Tableau
 
- ## Examples of Work  
+ ## Examples 
 
 <p float="left">
   <img src="https://github.com/zzachari23/SQLDatabase-Project/blob/main/Screenshot%202023-09-11%20at%202.06.07%20AM.png" width="300" height = "250"/>
