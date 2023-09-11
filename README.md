@@ -18,5 +18,5 @@ The primary objective of this project is to demonstrate my proficiency in workin
    <img height="300" hspace="23"/> 
   <img src="https://github.com/zzachari23/zzachari23/blob/main/Tableau.gif" width="300" height = "250"/>
 </p>
-<pre>        NutriFit iOS App                 Data Visualization via Tableau (SQL Project)     </pre>
+<pre>        ERD Diagram                    Data Visualization via Tableau (SQL Project)     </pre>
 
