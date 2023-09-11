@@ -14,7 +14,7 @@ The primary objective of this project is to demonstrate my proficiency in workin
  ## Examples of Work  
 
 <p float="left">
-  <img src="https://github.com/zzachari23/zzachari23/blob/main/NutriFit.gif" width="300" height = "250"/>
+  <img src="https://github.com/zzachari23/SQLDatabase-Project/blob/main/Screenshot%202023-09-11%20at%202.06.07%20AM.png" width="300" height = "250"/>
    <img height="300" hspace="23"/> 
   <img src="https://github.com/zzachari23/zzachari23/blob/main/Tableau.gif" width="300" height = "250"/>
 </p>
